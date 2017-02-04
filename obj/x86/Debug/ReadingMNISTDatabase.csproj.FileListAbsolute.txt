@@ -1,0 +1,16 @@
+E:\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\bin\Debug\ReadingMNISTDatabase.exe
+E:\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\bin\Debug\ReadingMNISTDatabase.pdb
+E:\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.Form1.resources
+E:\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.Properties.Resources.resources
+E:\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.csproj.GenerateResource.Cache
+E:\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.exe
+E:\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.pdb
+E:\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.csprojResolveAssemblyReference.cache
+E:\IMPORTANT STAFF\Education\4th year 1st semester\speech recognition\final project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.exe
+E:\IMPORTANT STAFF\Education\4th year 1st semester\speech recognition\final project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.pdb
+E:\IMPORTANT STAFF\Education\4th year 1st semester\speech recognition\final project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\bin\Debug\ReadingMNISTDatabase.exe
+E:\IMPORTANT STAFF\Education\4th year 1st semester\speech recognition\final project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\bin\Debug\ReadingMNISTDatabase.pdb
+E:\IMPORTANT STAFF\Education\4th year 1st semester\speech recognition\final project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.csprojResolveAssemblyReference.cache
+E:\IMPORTANT STAFF\Education\4th year 1st semester\speech recognition\final project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.Form1.resources
+E:\IMPORTANT STAFF\Education\4th year 1st semester\speech recognition\final project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.Properties.Resources.resources
+E:\IMPORTANT STAFF\Education\4th year 1st semester\speech recognition\final project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.csproj.GenerateResource.Cache
